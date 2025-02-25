@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/81261912/235382834-b8265e41-c2e3-473b-9b3e-8dde6d5fbf3f.png)](https://www.linkedin.com/in/spielereinzig/)
+[![MasterHead]](https://www.linkedin.com/in/spielereinzig/)
 
 <h1 align="center">Hi 👋, I'm Ryan Egbejule-jalla</h1>
 <h3 align="center">I'm a Flutter Engineer.</h3>
