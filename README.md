@@ -1,4 +1,3 @@
-[![MasterHead]](https://www.linkedin.com/in/spielereinzig/)
 
 <h1 align="center">Hi 👋, I'm Ryan Egbejule-jalla</h1>
 <h3 align="center">I'm a Flutter Engineer.</h3>
